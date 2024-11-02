@@ -1,0 +1,28 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": " npm first make",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuragchaudharytharu/npm.git"
+  },
+  "keywords": [
+    "code"
+  ],
+  "author": "deeium",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuragchaudharytharu/npm/issues"
+  },
+  "homepage": "https://github.com/anuragchaudharytharu/npm#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "lodash": "^4.17.21",
+    "simple-node-logger": "^21.8.12"
+  }
+}
